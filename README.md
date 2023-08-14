@@ -14,9 +14,24 @@
 <br/>
 
 <br />
-<h3> Contact with me ✅ </h3>
+<h2> My Portfolio ⚡ </h2>
+
+<p> Live site: https://heroic-dragon-9b93ce.netlify.app/ </p>
+<p> Repository: https://github.com/JinWook-Mok/PORTFOLIO.git </p>
+
+
+<br />
+<h2> Contact with me ✅ </h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jin_mok7/)
 
+
+<br/>
+
+<br />
+
+<h2> my github stats 📈 </h2>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JinWook-Mok&show_icons=true&theme=gotham" alt="JinWook-Mok" />
 
 <br/>
